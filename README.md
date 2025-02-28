@@ -1,4 +1,4 @@
-# image_steganography
+
 import cv2
 import string
 import os
